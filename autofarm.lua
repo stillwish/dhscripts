@@ -1,4 +1,5 @@
 -- This is a repost incase the original gets taken down by the owner.
+-- OG Made by https://github.com/applless/
 
 getgenv().Enabled = true
 getgenv().Dis = function()
